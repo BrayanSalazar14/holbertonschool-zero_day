@@ -1,1 +1,2 @@
-/Starting Git/
+#Starting Git
+*Holberton Zero Day Project*
